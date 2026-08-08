@@ -66,4 +66,11 @@
 - 装好ultralytics并跑通官方quickstart的`yolo predict`示例
 
 相关文件：`2026-8-7_复盘＋补漏`
-  
+
+### 2026-08-08: Day8-Ultralytics YOLO 上手：推理 + 数据集格式
+
+- 预训练yolo并作可视化结果
+- 阅读Ultralytics文档，了解数据集格式
+- 将官方标注转化为YOLO格式，同时随机抽取五张图片验证
+
+相关文件：`2026-8-8_Ultralytics YOLO 上手：推理 + 数据集格式`

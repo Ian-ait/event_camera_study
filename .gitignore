@@ -8,3 +8,5 @@ datasets/
 *.pt
 Microsoft/
 !2026-8-8_Ultralytics YOLO 上手：推理 + 数据集格式/runs/
+visdrone_dataset/
+images/
